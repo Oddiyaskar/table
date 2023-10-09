@@ -1,0 +1,17 @@
+table {
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid black;
+}
+
+td {
+  text-align: center;
+}
+
+.table__th {
+  width: 100px;
+  height: 60px;
+}
+/*# sourceMappingURL=main.min.css.map */
